@@ -1,0 +1,11 @@
+setup.py
+sync/__init__.py
+sync/bencode.py
+sync/cgreen.py
+sync/clusterer.py
+sync/dummyspread.py
+sync/hashtable.py
+sync/replication.py
+sync/sqldict.py
+sync/sqlqueue.py
+sync/twispread.py
